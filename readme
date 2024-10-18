@@ -1,0 +1,6 @@
+TO RUN ON THE LOCAL SYSTEM 
+
+STEP 1 : npm i and the node_modules will be created
+STEP 2 : change the configs as you needed (port and dbconfig)
+STEP 3 : generate a build using cmd `npm build`
+STEP 4 : run the next cmd `npm start` this will start running the server in the port you defined in config file.
